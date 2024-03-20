@@ -1,0 +1,96 @@
+{
+    "name": "v20_compendiums",
+    "title": "V20 Compendiums",
+    "description": "A module containing the exported V20 Compendiums compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 11,
+        "maximum": 12
+    },
+    "authors": [
+        {
+            "name": "Phoenix Alexander",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Backgrounds",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-backgrounds-1705801520137.db",
+            "name": "playtest-backgrounds-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Merits",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-merits-1705801520137.db",
+            "name": "playtest-merits-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Flaws",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-flaws-1705801520137.db",
+            "name": "playtest-flaws-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Discipline Paths",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-discipline-paths-1705801520137.db",
+            "name": "playtest-discipline-paths-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Discipline Path Powers",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-discipline-path-powers-1705801520137.db",
+            "name": "playtest-discipline-path-powers-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Discipline Powers",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-discipline-powers-1705801520137.db",
+            "name": "playtest-discipline-powers-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Rituals",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-rituals-1705801520137.db",
+            "name": "playtest-rituals-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Disciplines",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-disciplines-1705801520137.db",
+            "name": "playtest-disciplines-1705801520137",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Arms & Equipment",
+            "module": "v20_compendiums",
+            "path": "packs/playtest-arms-and-equipment-1705801520137.db",
+            "name": "playtest-arms-and-equipment-1705801520137",
+            "system": "worldofdarkness"
+        }
+    ],
+    "manifest": "http://64.25.140.141:30000/compendium2module/v20_compendiums/module.json",
+    "download": "http://64.25.140.141:30000/compendium2module/v20_compendiums/v20_compendiums.zip"
+}
