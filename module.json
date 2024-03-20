@@ -91,6 +91,6 @@
             "system": "worldofdarkness"
         }
     ],
-    "manifest": "https://github.com/R0gu3P403n1x/V20-Compendiums/module.json",
-    "download": "https://github.com/R0gu3P403n1x/V20-Compendiums/v20_compendiums.zip"
+    "manifest": "https://raw.githubusercontent.com/R0gu3P403n1x/V20-Compendiums/main/module.json",
+    "download": "https://github.com/R0gu3P403n1x/V20-Compendiums/main/v20_compendiums.zip"
 }
