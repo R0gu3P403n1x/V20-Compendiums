@@ -1,7 +1,7 @@
 {
     "name": "v20_compendiums",
     "title": "V20 Compendiums",
-    "description": "A module containing the exported V20 Compendiums compendium.",
+    "description": "A module containing the exported V20 Compendiums.",
     "version": "1.0.0",
     "library": "false",
     "manifestPlusVersion": "1.0.0",
