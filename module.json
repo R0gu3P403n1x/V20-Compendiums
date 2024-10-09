@@ -1,93 +1,108 @@
 {
     "name": "v20_compendiums",
     "title": "V20 Compendiums",
-    "description": "A module containing the exported V20 Compendiums.",
-    "version": "1.0.0",
+    "description": "A module containing the exported V20 Compendiums compendium.",
+    "version": "1.1.0",
     "library": "false",
-    "manifestPlusVersion": "1.0.0",
     "compatibility": {
         "minimum": 10,
-        "verified": 11,
-        "maximum": 12
+        "verified": 12,
+        "maximum": 13
     },
     "authors": [
         {
             "name": "Phoenix Alexander",
             "email": "",
-            "url": "https://github.com/R0gu3P403n1x/V20-Compendiums"
+            "url": ""
         }
     ],
     "packs": [
         {
             "type": "Item",
+            "label": "Werewolf Gifts",
+            "module": "v20_compendiums",
+            "path": "packs/by-moon-light-werewolf-gifts-1728506939833.db",
+            "name": "by-moon-light-werewolf-gifts-1728506939833",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
+            "label": "Combination Disciplines",
+            "module": "v20_compendiums",
+            "path": "packs/v20-combination-disciplines-playtest-combination-disciplines-1711749694709-1728506939833.db",
+            "name": "v20-combination-disciplines-playtest-combination-disciplines-1711749694709-1728506939833",
+            "system": "worldofdarkness"
+        },
+        {
+            "type": "Item",
             "label": "Backgrounds",
             "module": "v20_compendiums",
-            "path": "packs/playtest-backgrounds-1705801520137.db",
-            "name": "playtest-backgrounds-1705801520137",
+            "path": "packs/v20_compendiums-backgrounds-1728506939833.db",
+            "name": "v20_compendiums-backgrounds-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Merits",
             "module": "v20_compendiums",
-            "path": "packs/playtest-merits-1705801520137.db",
-            "name": "playtest-merits-1705801520137",
+            "path": "packs/v20_compendiums-merits-1728506939833.db",
+            "name": "v20_compendiums-merits-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Flaws",
             "module": "v20_compendiums",
-            "path": "packs/playtest-flaws-1705801520137.db",
-            "name": "playtest-flaws-1705801520137",
+            "path": "packs/v20_compendiums-flaws-1728506939833.db",
+            "name": "v20_compendiums-flaws-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Discipline Paths",
             "module": "v20_compendiums",
-            "path": "packs/playtest-discipline-paths-1705801520137.db",
-            "name": "playtest-discipline-paths-1705801520137",
+            "path": "packs/v20_compendiums-discipline-paths-1728506939833.db",
+            "name": "v20_compendiums-discipline-paths-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Discipline Path Powers",
             "module": "v20_compendiums",
-            "path": "packs/playtest-discipline-path-powers-1705801520137.db",
-            "name": "playtest-discipline-path-powers-1705801520137",
+            "path": "packs/v20_compendiums-discipline-path-powers-1728506939833.db",
+            "name": "v20_compendiums-discipline-path-powers-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Discipline Powers",
             "module": "v20_compendiums",
-            "path": "packs/playtest-discipline-powers-1705801520137.db",
-            "name": "playtest-discipline-powers-1705801520137",
+            "path": "packs/v20_compendiums-discipline-powers-1728506939833.db",
+            "name": "v20_compendiums-discipline-powers-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Rituals",
             "module": "v20_compendiums",
-            "path": "packs/playtest-rituals-1705801520137.db",
-            "name": "playtest-rituals-1705801520137",
+            "path": "packs/v20_compendiums-rituals-1728506939833.db",
+            "name": "v20_compendiums-rituals-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Disciplines",
             "module": "v20_compendiums",
-            "path": "packs/playtest-disciplines-1705801520137.db",
-            "name": "playtest-disciplines-1705801520137",
+            "path": "packs/v20_compendiums-disciplines-1728506939833.db",
+            "name": "v20_compendiums-disciplines-1728506939833",
             "system": "worldofdarkness"
         },
         {
             "type": "Item",
             "label": "Arms & Equipment",
             "module": "v20_compendiums",
-            "path": "packs/playtest-arms-and-equipment-1705801520137.db",
-            "name": "playtest-arms-and-equipment-1705801520137",
+            "path": "packs/v20_compendiums-armsandequipment-1728506939833.db",
+            "name": "v20_compendiums-armsandequipment-1728506939833",
             "system": "worldofdarkness"
         }
     ],
